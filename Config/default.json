@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://uditkhanna112:uditkhanna112@cluster0-l6jmh.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtkey":"uditkhanna112",
+    "jwtadmin":"admin"
+}
